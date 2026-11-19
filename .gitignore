@@ -1,0 +1,6 @@
+.venv/
+runs/*
+data/processed/*
+*.pt
+__pycache__/
+!.gitkeep
